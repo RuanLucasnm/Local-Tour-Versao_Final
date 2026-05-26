@@ -184,7 +184,7 @@ Este projeto é fornecido como está para fins educacionais e comerciais.
 
 ---
 
-**Desenvolvido com ❤️ para Local Tour**
+**Desenvolvido por Ruan e Eduardo**
 
 Versão: 1.0.0 | Última atualização: Maio 2026
 # Local-Tour-Versao_Final
