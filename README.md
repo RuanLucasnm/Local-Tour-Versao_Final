@@ -180,7 +180,7 @@ Para dúvidas ou problemas, verifique:
 
 ## 📝 Licença
 
-Este projeto é fornecido como está para fins educacionais e comerciais.
+Este projeto é fornecido como está para fins educacionais.
 
 ---
 
