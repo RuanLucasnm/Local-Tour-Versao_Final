@@ -79,4 +79,4 @@ php artisan serve --port=8001
 
 ---
 
-**Desenvolvido com ❤️ para Local Tour**
+**Desenvolvido por Ruan e Eduardo - Local Tour**
